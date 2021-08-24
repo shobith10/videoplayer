@@ -19,11 +19,7 @@ dependencies:
   # prevent screen from sleeping
   wakelock: ^0.2.1+1
 
-  # switch orientation
-  auto_orientation: 1.0.1
 
-  # listen to orientation
-  native_device_orientation: ^0.4.3
 
 dev_dependencies:
   flutter_test:
