@@ -19,6 +19,8 @@ dependencies:
   # prevent screen from sleeping
   wakelock: ^0.2.1+1
 
+  provider: ^4.3.2+3
+
 
 
 dev_dependencies:
@@ -29,6 +31,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-  assets:
-    - assets/video.mp4

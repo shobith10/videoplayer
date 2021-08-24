@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:video_example/theme_provider.dart';
 import 'package:video_example/widget/basics/changebuttonwidget.dart';
 
