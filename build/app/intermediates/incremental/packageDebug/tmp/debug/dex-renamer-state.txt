@@ -1,4 +1,4 @@
-#Sun Aug 22 20:05:19 IST 2021
-base.0=C\:\\Users\\DELL\\AndroidStudioProjects\\video_example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Aug 24 16:32:39 IST 2021
+base.0=C\:\\Users\\DELL\\AndroidStudioProjects\\videoplayer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
