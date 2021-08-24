@@ -6,9 +6,7 @@ import 'package:video_example/widget/basics/changebuttonwidget.dart';
 class SettingPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final text = Provider.of<ThemeProvider>(context).themeMode == ThemeMode.dark
-        ? 'DarkTheme'
-        : 'LightTheme';
+
     return Scaffold(
       appBar: AppBar(
         title: Padding(
